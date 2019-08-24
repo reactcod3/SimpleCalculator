@@ -1,0 +1,15 @@
+.Display{
+    border: 1px solid black;
+    width:100%;
+    border-radius: 5px;
+    height: 48px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    
+    
+    
+}
