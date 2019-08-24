@@ -1,4 +1,4 @@
-This is my forst project created using React. The live version can be found below:
+This is my first project created using React. The live version can be found below:
 https://reactcod3.github.io/SimpleCalculator/
 
 
