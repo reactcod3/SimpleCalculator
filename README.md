@@ -1,3 +1,7 @@
+This is my forst project created using React. The live version can be found below:
+https://reactcod3.github.io/SimpleCalculator/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
